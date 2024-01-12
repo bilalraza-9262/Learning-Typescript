@@ -1,0 +1,5 @@
+"use strict";
+//WHY WE USE TYPESCRIPT?
+//VARIABLE
+//DATA TYPES
+//ARRAY
